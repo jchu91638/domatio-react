@@ -22,7 +22,7 @@ const Contact = () => {
           <h1>Developer</h1>
           <div className="sub-informer">
             <a
-              href="https://www.linkedin.com/in/te-nyain-moe-lwin-80b4a11a4/"
+              href="https://discordapp.com/users/1130854260716884048/"
               target="_blank"
               rel="noreferrer"
             >
