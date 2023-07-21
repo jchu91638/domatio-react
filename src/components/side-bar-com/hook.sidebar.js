@@ -77,7 +77,6 @@ const HookSidebar = () => {
   // Example Keywords
   const TagArray = [
     "free",
-    "myanmar",
     "background",
     "design",
     "SVG",
@@ -163,7 +162,7 @@ const HookSidebar = () => {
 
     /* action */
     handleClick,
-    setTagName
+    setTagName,
   };
 };
 
