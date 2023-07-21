@@ -39,7 +39,7 @@ const About = () => {
         <div className="desc-right">
           <img
             className="image"
-            src="https://domatio.vercel.app/meta-domatio.png"
+            src="https://devdomatio.vercel.app/meta-domatio.png"
             alt="about domatio"
           />
         </div>
